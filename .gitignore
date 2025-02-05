@@ -1,0 +1,6 @@
+model/
+vosk-model-cn-0.22/
+node_modules/
+app_ing_test.js
+package-lock.json
+app.js
