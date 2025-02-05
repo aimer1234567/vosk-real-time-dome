@@ -16,5 +16,6 @@ The web front-end records audio, sends the audio to the backend through WebSocke
 Install dependencies:  
 `npm install`
 
-运行 `npm start`  
-Run `npm start`
+运行 
+Run
+`npm start`
