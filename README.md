@@ -17,7 +17,5 @@ Install dependencies:
 `npm install`
 
 运行 
-
-Run
-
+Run 
 `npm start`
